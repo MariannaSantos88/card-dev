@@ -1,0 +1,64 @@
+body{
+   background-color: black;
+}
+
+#card{
+    background-color: rgba(255, 255, 255, 0.116);
+    width: 400px;
+    height: 580px;
+    border-radius: 10%;
+    margin-left: 450px;
+    border: 1px solid rgba(255, 255, 255, 0.295);
+}
+
+#picture{
+    width: 200px;
+    height: 250px;
+    border-radius: 5%;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+#info{
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #70d6a0cb;
+    margin: 25px;
+    border-radius: 10%;
+}
+
+#info p{
+    padding-left: 70px;
+    padding-top: 6px;
+}
+
+#techs{
+    width: 45px;
+    height: 45px;
+    margin-left: 25px;
+    border-radius: 40%;
+}
+
+#code{
+    padding-left: 60px;
+}
+
+#contact{
+    padding-left: 60px;
+    padding-bottom: 10px;
+}
+
+#cont{
+    width: 45px;
+    height: 45px;
+    margin-left: 25px;
+}
+
+#footer{
+    color: white;
+    margin-left: 540px;
+}
+
+#footer b{
+    color:#70d6a0cb;
+}
